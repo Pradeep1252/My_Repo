@@ -5,4 +5,5 @@ b=2
 
 echo " sum of $a+$b "
 echo " sub of $a-$b "
+echo " mul of $a*$b "
 
